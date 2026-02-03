@@ -135,11 +135,11 @@ JustSearch is under active development. Current focus is on stability and core s
 
 ## Downloads
 
-### Latest Release: [v0.1.0-alpha](https://github.com/eliasjustus/justsearch-releases/releases/tag/v0.1.0-alpha)
+### Latest Release: [v0.1.0-alpha](https://github.com/eliasjustus/justsearch-release/releases/tag/v0.1.0-alpha)
 
 > **Alpha release** — Functional but early. Expect rough edges.
 
-- [Windows Installer (x64)](https://github.com/eliasjustus/justsearch-releases/releases/download/v0.1.0-alpha/JustSearch-0.1.0-alpha-win64-setup.exe) — 1.2 GB
+- [Windows Installer (x64)](https://github.com/eliasjustus/justsearch-release/releases/download/v0.1.0-alpha/JustSearch-0.1.0-alpha-win64-setup.exe) — 1.2 GB
 
 ### Verify Your Download (Optional)
 
@@ -147,7 +147,7 @@ JustSearch is under active development. Current focus is on stability and core s
 (Get-FileHash .\JustSearch-0.1.0-alpha-win64-setup.exe -Algorithm SHA256).Hash
 ```
 
-Compare with the checksum in [`SHA256SUMS.txt`](https://github.com/eliasjustus/justsearch-releases/releases/download/v0.1.0-alpha/SHA256SUMS.txt) from the release.
+Compare with the checksum in [`SHA256SUMS.txt`](https://github.com/eliasjustus/justsearch-release/releases/download/v0.1.0-alpha/SHA256SUMS.txt) from the release.
 
 ### System Requirements
 
