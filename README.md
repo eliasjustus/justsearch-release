@@ -93,6 +93,27 @@ JustSearch targets the underserved intersection: users who need AI-powered searc
 
 ---
 
+## About the Founder
+
+**Elias Justus** — 19-year-old solo developer from Germany.
+
+I started building JustSearch to solve my own problem: finding information across scattered files without uploading everything to the cloud. What began as a personal project evolved into a full desktop application with a distributed architecture typically found in cloud systems.
+
+**Technical background:**
+- Self-taught developer, building since age 15
+- Focus on systems programming (Java, Rust) and desktop applications
+- Abitur (German high school diploma) with advanced courses in Mathematics, Physics, and English
+
+**What I've built:**
+- Three-process architecture with crash isolation and graceful degradation
+- Custom gRPC + memory-mapped file IPC layer for Windows
+- Integration of Lucene (search), Apache Tika (content extraction), and llama.cpp (local AI)
+- React + Tauri desktop shell with real-time file watching
+
+JustSearch represents 12+ months of focused development, solving hard problems around Windows file locking, VRAM management, and local LLM integration.
+
+---
+
 ## Roadmap
 
 JustSearch is under active development. Current focus is on stability and core search quality.
@@ -155,9 +176,12 @@ JustSearch is licensed under the [Apache License 2.0](LICENSE).
 
 ## Contact
 
-For investor inquiries, partnership opportunities, or general questions:
+**Elias Justus**
+- Email: eliasjustus457@gmail.com
+- GitHub: [@eliasjustus](https://github.com/eliasjustus)
+- Location: Germany
 
-- GitHub Issues: [justsearch-releases/issues](https://github.com/eliasjustus/justsearch-releases/issues)
+For questions, feedback, or partnership inquiries — reach out directly.
 
 ---
 
