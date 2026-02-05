@@ -28,8 +28,6 @@ JustSearch brings AI-powered search to your local files with complete privacy:
 
 ![Search Results](assets/screenshots/02-search-light.png)
 
-*Screenshot shows keyword search with document preview. "AI service offline" indicates the optional AI features aren't active — search works fully without GPU.*
-
 ---
 
 ## Key Features
